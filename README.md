@@ -7,7 +7,7 @@ Welcome! This repository contains all of the code, notebooks, images and other m
 ## Quick links
 
 * 🎥 Watch the [first 10 hours of the course on YouTube](https://youtu.be/r67SfaiYaDI).
-* 📚 Read the materials of the course in a [beautiful online book](https://dev.mrdbourke.com/zero-to-mastery-ml/).
+* 📚 Read the course materials in a [beautiful online book](https://dev.mrdbourke.com/zero-to-mastery-ml/).
 * 🤔 Found something wrong with the code? Leave an [issue](https://github.com/mrdbourke/zero-to-mastery-ml/issues).
 * ❓ Got a question? [Post a discussion](https://github.com/mrdbourke/zero-to-mastery-ml/discussions) (see the [question template](https://github.com/mrdbourke/zero-to-mastery-ml/discussions/48)). 
 
@@ -18,9 +18,9 @@ Welcome! This repository contains all of the code, notebooks, images and other m
 
 ## Contents
 
-The following contents are listed in suggested chronological order.
+The following contents are listed in the suggested chronological order.
 
-But feel free to mix in match in anyway you feel fit.
+But feel free to mix and match in any way you see fit.
 
 > **Note:** All of the datasets we use in the course are available in the [`data/`](https://github.com/mrdbourke/zero-to-mastery-ml/tree/master/data) folder.
 
